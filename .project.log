@@ -7,6 +7,24 @@
 [2020-03-18 18:15:11.8670] - ERROR -   <rejected> Error: Error updating package.json Error: ENOENT: no such file or directory, open '/Users/navidtavalaei/Desktop/FramerX-CLI.framerfx/package.json'
 [2020-03-18 18:15:11.8680] - ERROR -       at Project.<anonymous> (/Applications/Framer X.app/Contents/Resources/Server/lib/project.js:1208:23)
 [2020-03-18 18:15:11.8680] - ERROR -       at Generator.throw (<anonymous>)
+[2020-03-18 18:15:11.8680] - ERROR -       at rejected (/Applications/Framer X.app/Contents/Resources/Server/lib/project.jse.json Error: ENOENT: no such file or directory, open '/Users/navidtavalaei/Desktop/FramerX-CLI.framerfx/package.json'
+[2020-03-18 18:15:11.8680] - ERROR -       at Project.<anonymous> (/Applications/Framer X.app/Contents/Resources/Server/lib/project.js:1208:23)
+[2020-03-18 18:15:11.8680] - ERROR -       at Generator.throw (<anonymous>)
+[2020-03-18 18:15:11.8680] - ERROR -       at rejected (/Applications/Framer X.app/Contents/Resources/Server/lib/project.jsf project folder: true
+[2020-03-18 18:15:10.9870] - INFO - Done reading
+[2020-03-18 18:15:10.9870] - INFO - Marking changed: false
+[2020-03-18 18:15:10.9880] - INFO - Marking changed: false
+[2020-03-18 18:15:10.9930] - DEBUG - [Save session: 1] Completed super.save
+[2020-03-18 18:15:11.8670] - ERROR - Unhandled Rejection at: Promise Promise {
+[2020-03-18 18:15:11.8670] - ERROR -   <rejected> Error: Error updating package.json Error: ENOENT: no such file or directory, open '/Users/navidtavalaei/Desktop/FramerX-CLI.framerfx/package.json'
+[2020-03-18 18:15:11.8680] - ERROR -       at Project.<anonymous> (/Applications/Framer X.app/Contents/Resources/Server/lib/project.js:1208:23)
+[2020-03-18 18:15:11.8680] - ERROR -       at Generator.throw (<anonymous>)
+[2020-03-18 18:15:11.8680] - ERROR -       at rejected (/Applications/Framer X.app/Contents/Resources/Server/lib/project.jserX-CLI.framerfx/package.json'
+[2020-03-18 18:15:11.8680] - ERROR -       at Project.<anonymous> (/Applications/Framer X.app/Contents/Resources/Server/lib/project.js:1208:23)
+[2020-03-18 18:15:11.8680] - ERROR -       at Generator.throw (<anonymous>)
+[2020-03-18 18:15:11.8680] - ERROR -       at rejected (/Applications/Framer X.app/Contents/Resources/Server/lib/project.jse.json Error: ENOENT: no such file or directory, open '/Users/navidtavalaei/Desktop/FramerX-CLI.framerfx/package.json'
+[2020-03-18 18:15:11.8680] - ERROR -       at Project.<anonymous> (/Applications/Framer X.app/Contents/Resources/Server/lib/project.js:1208:23)
+[2020-03-18 18:15:11.8680] - ERROR -       at Generator.throw (<anonymous>)
 [2020-03-18 18:15:11.8680] - ERROR -       at rejected (/Applications/Framer X.app/Contents/Resources/Server/lib/project.jsf project folder: true
 [2020-03-18 18:15:10.9870] - INFO - Done reading
 [2020-03-18 18:15:10.9870] - INFO - Marking changed: false
@@ -67,3 +85,38 @@
 [2020-03-18 18:25:21.0060] - DEBUG - [Save session: 1] Completed super.save
 [2020-03-18 18:25:21.8790] - INFO - Marking changed: false
 [2020-03-18 18:25:21.8850] - INFO - GET 304 /node_modules/framer/build/framer.debug.js 0 B (0ms)
+
+[2020-03-18 18:29:21.8830] - INFO - Reading from /Users/navidtavalaei/Desktop/FramerX-CLI.framerfx (origin); preserving existing contents of project folder: true
+[2020-03-18 18:29:21.8870] - INFO - Done reading
+[2020-03-18 18:29:21.8880] - INFO - Marking changed: false
+[2020-03-18 18:29:22.0130] - INFO - Proxy Config: exceptions: *.local, 169.254/16
+[2020-03-18 18:29:23.6590] - INFO - Project server PID: 9309
+[2020-03-18 18:29:23.9050] - INFO - Installing dependencies…
+[2020-03-18 18:29:23.9630] - INFO - GET 200 /design/document.json 0 B (5ms)
+[2020-03-18 18:29:24.1090] - INFO - GET 200 /node_modules/framer/build/framer.debug.js 0 B (4ms)
+
+[2020-03-18 18:30:40.2340] - INFO - Reading from /Users/navidtavalaei/Desktop/FramerX-CLI.framerfx (origin); preserving existing contents of project folder: true
+[2020-03-18 18:30:40.2370] - INFO - Done reading
+[2020-03-18 18:30:40.2380] - INFO - Marking changed: false
+[2020-03-18 18:30:40.3470] - INFO - Proxy Config: exceptions: *.local, 169.254/16
+[2020-03-18 18:30:41.3190] - INFO - Project server PID: 9371
+[2020-03-18 18:30:41.5430] - INFO - Installing dependencies…
+[2020-03-18 18:30:41.5950] - INFO - GET 200 /design/document.json 0 B (5ms)
+[2020-03-18 18:30:41.7200] - INFO - GET 200 /node_modules/framer/build/framer.debug.js 0 B (2ms)
+[2020-03-18 18:30:42.9910] - INFO - Installing dependencies - DONE. Took 1447ms
+[2020-03-18 18:30:43.4750] - ERROR - Wed, 18 Mar 2020 17:30:43 GMT express deprecated res.send(status): Use res.sendStatus(status) instead at Applications/Framer X.app/Contents/Resources/Server/lib/server.js:129:17
+[2020-03-18 18:30:46.4070] - ERROR - Wed, 18 Mar 2020 17:30:45 GMT express deprecated res.send(status): Use res.sendStatus(status) instead at Applications/Framer X.app/Contents/Resources/Server/lib/middleware.js:76:13
+
+[2020-03-18 18:30:51.2990] - INFO - Reading from /Users/navidtavalaei/Desktop/FramerX-CLI.framerfx (origin); preserving existing contents of project folder: true
+[2020-03-18 18:30:51.3020] - INFO - Done reading
+[2020-03-18 18:30:51.3030] - INFO - Marking changed: false
+[2020-03-18 18:30:51.3030] - INFO - Marking changed: false
+[2020-03-18 18:30:51.3070] - DEBUG - [Save session: 1] Completed super.save
+[2020-03-18 18:30:51.8560] - INFO - Marking changed: false
+[2020-03-18 18:30:51.8740] - INFO - GET 304 /node_modules/framer/build/framer.debug.js 0 B (0ms)
+
+[2020-03-18 18:30:56.7870] - INFO - Reading from /Users/navidtavalaei/Desktop/FramerX-CLI.framerfx (origin); preserving existing contents of project folder: true
+[2020-03-18 18:30:56.7900] - INFO - Done reading
+[2020-03-18 18:30:56.7900] - INFO - Marking changed: false
+[2020-03-18 18:30:56.9050] - INFO - Proxy Config: exceptions: *.local, 169.254/16
+[2020-03-18 18:30:57.9080] - INFO - Project server PID: 9383
