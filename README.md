@@ -15,5 +15,4 @@ Version,
 Help,
 
 
-Thank You,
-Navid Tavalaei
+Author: Navid Tavalaei
