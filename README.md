@@ -1,7 +1,7 @@
 # FRAMERX-1
 TUTORIAL
 
-FramercX CLI Tutorial
+FramerX CLI Tutorial
 
 About
 In this tutorial, you’ll learn how to use the Framer CLI to publish packages.
