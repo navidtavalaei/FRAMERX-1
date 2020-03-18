@@ -1,0 +1,9 @@
+{
+	"framer": {
+		"id": "f3ebc63d-00a7-4f7a-b460-4d6f4103c71f"
+	},
+	"peerDependencies": {
+		"framer": "^1"
+	},
+	"author": "Navid Tavalaei"
+}
