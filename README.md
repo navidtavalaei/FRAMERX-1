@@ -13,4 +13,4 @@ Version,
 Help,
 
 
-Author: Navid Tavalaei
+Author: Navid Tavalaei | MUXD Interface Development
