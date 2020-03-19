@@ -1,6 +1,6 @@
 # FRAMERX-1
 TUTORIAL
-
+https://www.framer.com/learn/lesson/using-the-framer-cli/
 FramerX CLI Tutorial
 
 About:
